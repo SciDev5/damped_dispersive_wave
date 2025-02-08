@@ -1,0 +1,9 @@
+[package]
+name = "damped_dispersive_wave"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cpal = "0.15.3"
+rustfft = "6.2.0"
+num-complex = "0.4.6"
